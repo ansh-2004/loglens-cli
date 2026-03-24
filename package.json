@@ -12,7 +12,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["cli", "logs", "log-parser", "loglens", "loglens-cli"],
+  "keywords": [
+    "cli",
+    "logs",
+    "log-parser",
+    "loglens",
+    "loglens-cli"
+  ],
   "author": "Ansh Gupta",
   "license": "MIT",
   "type": "module",
