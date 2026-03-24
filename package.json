@@ -1,6 +1,6 @@
 {
   "name": "loglens-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A powerfull cli tool to analyze and filter log files smartly ",
   "main": "./bin/index.js",
   "bin": {
