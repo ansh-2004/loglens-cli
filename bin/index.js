@@ -27,8 +27,8 @@ const argv = yargs(hideBin(process.argv))
   })
   .argv;
 
-const logs = await parseLogFile(argv.file);
-const filtered = filterLogs(logs, argv);
-filtered.forEach(log => console.log(formatLog(log)));
+const logs = await parseLogFile(argv.file)
+const filtered = filterLogs(logs, argv)
+filtered.forEach(log => console.log(formatLog(log)))
 
 
