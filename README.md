@@ -1,5 +1,9 @@
 ````markdown
-# 🔍 loglens-cli
+
+# Name :- Ansh Gupta (2210991295) , Chirag (2210991460)
+# Project:- Loglens-cli - Copyright
+
+# 🔍 loglens-cli 
 
 **loglens-cli** is a powerful CLI tool designed for developers and DevOps engineers to quickly filter, inspect, and analyze log files. Whether you're debugging an issue or summarizing errors across days of logs, `loglens-cli` helps you extract just what you need — fast.
 
