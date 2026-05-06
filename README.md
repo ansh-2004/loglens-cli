@@ -1,7 +1,6 @@
-````markdown
 
-# Name :- Ansh Gupta (2210991295) , Chirag (2210991460)
-# Project:- Loglens-cli - Copyright
+## Name :- Ansh Gupta (2210991295) , Chirag (2210991460)
+## Project:- Loglens-cli - Copyright
 
 # 🔍 loglens-cli 
 
